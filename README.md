@@ -1,2 +1,2 @@
 # Internal linking tool
-An Internal linking Tool finds urls based target urls and keywords.Its meant for Marketing purposes. 
+A Tool which finds urls based on target urls and keywords.Its meant for Marketing purposes. 
