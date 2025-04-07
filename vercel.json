@@ -8,6 +8,8 @@
     ],
     "routes": [
       { "src": "/", "dest": "/index.php" },
-     
+      { "src": "/", "dest": "/process.php" },
+      { "src": "/gptworkflow", "dest": "/gptworkflow.php" }
+
     ]
   }
