@@ -10,5 +10,6 @@
       { "src": "/", "dest": "/index.php" },
       { "src": "/process", "dest": "/process.php" },
       { "src": "/gptworkflow", "dest": "/gptworkflow.php" }
+
     ]
   }
